@@ -3,3 +3,5 @@ react native ile yazılmış kullanıcıların sistemde kayıtlı istedikleri ki
 
 ![test image size](https://klasiksanatlar.com/img/sayfalar/b/1_1598452306_resim.png)
 
+<img src="https://klasiksanatlar.com/img/sayfalar/b/1_1598452306_resim.png" width="48">
+
